@@ -1,0 +1,13 @@
+{
+  "itemGroup.protardismod": "Example Mod Tab",
+  "block.protardismod.example_block": "Example Block",
+  "item.protardismod.example_item": "Example Item",
+
+  "protardismod.configuration.title": "Pro-Tardis Mod Configs",
+  "protardismod.configuration.section.protardismod.common.toml": "Pro-Tardis Mod Configs",
+  "protardismod.configuration.section.protardismod.common.toml.title": "Pro-Tardis Mod Configs",
+  "protardismod.configuration.items": "Item List",
+  "protardismod.configuration.logDirtBlock": "Log Dirt Block",
+  "protardismod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "protardismod.configuration.magicNumber": "Magic Number"
+}
